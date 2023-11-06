@@ -4,7 +4,15 @@ A collaborative endeavor to develop a Kubernetes (K8s) cluster on the cloud. Thi
 
 ## Overview
 
-Embarked on a hands-on cloud engineering journey, our team sequentially tackled challenges using a Trello-based workflow, enhanced by extensive diagrammatic planning and collaboration. We adopted Git best practices by utilising feature branches, ensuring a structured and efficient development process.
+Embarked on a hands-on cloud engineering journey, our team sequentially tackled challenges using a Trello-based workflow, enhanced by extensive diagrammatic planning and collaboration. 
+
+We adopted Git best practices by utilising feature branches, ensuring a structured and efficient development process.
+
+### Metapod Project Diagram
+
+![Diagram](https://github.com/Zhagi/Metapod_Project/blob/main/Metapod%20Project%20Diagram..png?raw=true)
+
+
 
 
 
