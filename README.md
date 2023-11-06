@@ -12,7 +12,7 @@ We adopted Git best practices by utilising feature branches, ensuring a structur
 
 ---
 
-### Metapod Project Diagram
+Metapod Project Diagram
 
 ![Diagram](https://github.com/Zhagi/Metapod_Project/blob/main/Metapod%20Project%20Diagram..png?raw=true)
 
